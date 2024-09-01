@@ -1,0 +1,214 @@
+{
+  "sp_54_Phuc": [
+    {
+      "name": "Áo khoác nỉ đen",
+      "description": "Chất liệu tốt",
+      "price": 700000,
+      "category_id": 2,
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Tất trắng",
+      "description": "Chất liệu cotton, size universal",
+      "price": 50000,
+      "category_id": 4
+    },
+    {
+      "id": "7",
+      "name": "Nón snapback đen",
+      "description": "Chất liệu vải, có thể điều chỉnh kích thước",
+      "price": 200000,
+      "category_id": 5
+    },
+    {
+      "id": "2a6f",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "4c7f",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "d86d",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "4dc8",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "99be",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "8b9e",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "7688",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "a677",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "cfea",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "91ac",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "270a",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "0bd4",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "bbe1",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "a5e3",
+      "name": "New Item",
+      "description": "Test item",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "5065",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "516a",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "1956",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "f31a",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "6088",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "1858",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "f7ac",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "1559",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "a3b8",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "a35c",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "7",
+      "name": "Nón snapback đen",
+      "description": "Chất liệu vải, có thể điều chỉnh kích thước",
+      "price": 200000,
+      "category_id": 5
+    },
+    {
+      "id": "d8eb",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    },
+    {
+      "id": "ea1e",
+      "name": "NewItem_54",
+      "description": "Test_54_Phuc",
+      "price": 100,
+      "category_id": 1
+    }
+  ]
+}
